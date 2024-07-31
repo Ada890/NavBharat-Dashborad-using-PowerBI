@@ -4,7 +4,7 @@
 This project involves creating an interactive and insightful Power BI dashboard for Nav Bharat Khadi Store. The dashboard provides a comprehensive view of various key metrics and statistics to help in effective decision-making and business management.
 
 ## Dashboard Preview
-![Nav Bharat Store Dashboard](./images/image.png)
+![Nav Bharat Store Dashboard](./image/image.png)
 
 ## Features
 - **Sales Summary**: Displays the total amount, quantity, profit, and average order value.
